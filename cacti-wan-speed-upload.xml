@@ -77,10 +77,10 @@
 		</inputs>
 	</hash_0000243c283d1a4109c55e79196421b3f66ef1>
 	<hash_0100242d7f72f52c1b86b305e2b7b098c7b5cd>
-		<name>WAN1-speed</name>
+		<name>WAN1-speed-upload</name>
 		<ds>
 			<t_name></t_name>
-			<name>WAN1-speed</name>
+			<name>WAN1-speed-upload</name>
 			<data_input_id>hash_0300242fcce96c847633559bc8bd73f8df5ff5</data_input_id>
 			<t_rra_id></t_rra_id>
 			<t_rrd_step></t_rrd_step>
@@ -109,7 +109,7 @@
 		</data>
 	</hash_0100242d7f72f52c1b86b305e2b7b098c7b5cd>
 	<hash_0300242fcce96c847633559bc8bd73f8df5ff5>
-		<name>WAN1-speed</name>
+		<name>WAN1-speed-upload</name>
 		<type_id>1</type_id>
 		<input_string>perl &lt;path_cacti&gt;/scripts/wan1-speed-upload.pl</input_string>
 		<fields>
