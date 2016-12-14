@@ -31,14 +31,14 @@ Now get wan1 upload speed
 
 ... that download? .... on the other way !! ...
 
-Put speed.php in openshift cacti
+Put speed.php in openshift cacti like
 
-Http://cacti-nz.rhclude.com/speed.php
+like Http://cacti-nz.rhclude.com/speed.php
 
-Put wan1.php at http://12.12.12.12:8090/wan1.php
+Put wan1-download.php at http://12.12.12.12:8090/wan1-download.php
 
-In openshift cacti write a script perl  http://12.12.12.12:8090/wan1.php .....
+ps : change Http://cacti-nz.rhclude.com/speed.php as your cacti-openshift web
 
-juest change wan1.php
+In openshift cacti put perl script wan1-speed-download.pl
 
-$ A = `curl http://12.12.12.12:8090/wan1.php`; 
+ps : change  $ A = `curl http://12.12.12.12:8090/wan1.php`;  as your web web
