@@ -111,7 +111,7 @@
 	<hash_0300242fcce96c847633559bc8bd73f8df5ff5>
 		<name>WAN1-speed</name>
 		<type_id>1</type_id>
-		<input_string>perl &lt;path_cacti&gt;/scripts/125.227.193.182-speed.pl</input_string>
+		<input_string>perl &lt;path_cacti&gt;/scripts/wan1-speed.pl</input_string>
 		<fields>
 			<hash_07002448f1d62f6060a5a0c20c8989e3ff8a40>
 				<name>speed</name>
