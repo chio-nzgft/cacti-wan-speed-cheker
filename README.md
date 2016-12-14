@@ -6,11 +6,13 @@ a measured speed of PHP feels good ... just before OPENSHIFT cacti is used speed
 
 Put the speed.php in a web on WAN1 eg http://12.12.12.12:8090/speed.php
 
-Openshift cacti plus the following procedures such as the name wan1.php 
+Openshift cacti plus the following procedures such as the name wan1-upload.php
 
-The page is http://cacti-nz.rhclude.com/wan1.php
+ps : change code .....$http="http://12.12.12.12:8090/speed.php" with you WAN1
 
-In openshift cacti write a script perl grasp this page wan1-speed.pl 
+The page is http://cacti-nz.rhclude.com/wan1-upload.php
+
+In openshift cacti write a script perl grasp this page wan1-speed-upload.pl 
 
 On cacti scripts under ..... 
 
