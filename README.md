@@ -41,4 +41,4 @@ ps : change Http://cacti-nz.rhclude.com/speed.php as your cacti-openshift web
 
 In openshift cacti put perl script wan1-speed-download.pl
 
-ps : change  $ A = `curl http://12.12.12.12:8090/wan1.php`;  as your web web
+ps : change  $ A = `curl http://12.12.12.12:8090/wan1-download.php`;  as your web web
