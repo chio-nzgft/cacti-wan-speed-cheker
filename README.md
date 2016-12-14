@@ -4,7 +4,7 @@ cacti chack wan speed
 
 a measured speed of PHP feels good ... just before OPENSHIFT cacti is used speed.php
 
-Put the above speed.php in a web on WAN1 eg http://12.12.12.12:8090/ 
+Put the speed.php in a web on WAN1 eg http://12.12.12.12:8090/speed.php
 
 Openshift cacti plus the following procedures such as the name wan1.php 
 
