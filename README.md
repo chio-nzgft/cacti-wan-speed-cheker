@@ -6,18 +6,6 @@ in linux shell like OPENSHIFT
 
 exec ./setup.pl
 
-.......
- perl ./setup.pl
-
-Input openshell web site : cacti-chio.rhcloud.com
-Input your Wan1 web site : 210.112.223.23:9090
---------------------------------------------
-your openshell site : http://cacti-chio.rhcloud.com/
-your Wan1 web site : http://210.112.223.23:9090/
-
-Are you sure ? input "Y" : Y
-
-.....
 
 Put "speed.php & wan1-download.php" in your WAN1 web site
 
