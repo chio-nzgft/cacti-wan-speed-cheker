@@ -21,7 +21,7 @@ if ($y eq "Y")
         `cp -f win1-speed.pl.orig win1-speed.pl`;
         $do="sed -i 's/$oo/$o/g' win1-speed.pl";
         `$do`;
-        $do="sed -i 's/$ww/$w/g' win1-speed.pl'
+        $do="sed -i 's/$ww/$w/g' win1-speed.pl';
         `$do`;
         `cp -f wan1-upload.php.orig wan1-upload.php`;
         $do="sed -i 's/$ww/$w/g' wan1-upload.php";
