@@ -8,6 +8,10 @@ exec ./setup.pl
 
 ![alt tag](https://github.com/chio-nzgft/cacti-wan-speed-cheker/blob/master/images/1481787019-2075263314_n.png)
 
+will get "speed.php & wan1-download.php & wan1-upload.php"
+
+
+
 Put "speed.php & wan1-download.php" in your WAN1 web site
 
 Put "speed.php & wan1-upload.php" in your rhcloud
