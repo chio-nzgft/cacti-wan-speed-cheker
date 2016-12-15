@@ -6,7 +6,7 @@ a measured speed of PHP feels good ... just before OPENSHIFT cacti is used speed
 
 Put the speed.php in a web on WAN1 eg http://12.12.12.12:8090/speed.php
 
-Openshift cacti plus the following procedures such as the name wan1-upload.php
+Openshift cacti put the following procedures such as the name wan1-upload.php
 
 ps : change code .....$http="http://12.12.12.12:8090/speed.php" with you WAN1
 
