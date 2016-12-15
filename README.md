@@ -6,7 +6,7 @@ in linux shell like OPENSHIFT
 
 exec ./setup.pl
 
-![alt tag](https://pic.pimg.tw/echochio/1481787019-2075263314_n.png)
+![alt tag](https://github.com/chio-nzgft/cacti-wan-speed-cheker/blob/master/images/1481787019-2075263314_n.png)
 
 Put "speed.php & wan1-download.php" in your WAN1 web site
 
