@@ -24,7 +24,7 @@ Input String -> perl <path_cacti> /scripts/wan1-speed.pl
 
 Output filelds -> speed
 
-![alt tag](https://pic.pimg.tw/echochio/1481679410-2081905005_n.png)
+![alt tag](https://github.com/chio-nzgft/cacti-wan-speed-cheker/blob/master/images/1481779750-3593161566_n.png)
 
 -----------------------------------------------------------------------------------
 Now get wan1 upload speed 
