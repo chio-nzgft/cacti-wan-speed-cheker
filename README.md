@@ -24,6 +24,8 @@ Input String -> perl <path_cacti> /scripts/wan1-speed.pl
 
 Output filelds -> speed
 
+![alt tag](https://pic.pimg.tw/echochio/1481679410-2081905005_n.png)
+
 -----------------------------------------------------------------------------------
 Now get wan1 upload speed 
 
