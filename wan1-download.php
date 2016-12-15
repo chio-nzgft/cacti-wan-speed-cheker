@@ -1,5 +1,5 @@
 <?php
-$http="Http://cacti-nz.rhclude.com/speed.php";
+$http="http://cacti-nz.rhclude.com/speed.php";
 $buffer = file($http);
 for($i=0;$i<sizeof($buffer);$i++)
 {
