@@ -10,7 +10,7 @@ exec ./setup.pl
 
 will get "speed.php & wan1-download.php & wan1-upload.php"
 
-
+![alt tag](https://github.com/chio-nzgft/cacti-wan-speed-cheker/blob/master/images/1481787630-882488596.png)
 
 Put "speed.php & wan1-download.php" in your WAN1 web site
 
