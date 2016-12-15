@@ -26,9 +26,11 @@ http://cacti-chio.rhcloud.com/speed.php
 
 http://cacti-chio.rhcloud.com/wan1-upload.php
 
-Put cacti scripts "win1-speed.pl" in  "<path_cacti>/scripts/"
+Put cacti scripts "win1-speed.pl" in "[path_cacti]/scripts/"
 
-will be "<path_cacti>/scripts/wan1-speed.pl"
+will be "[path_cacti]/scripts/wan1-speed.pl"
+
+
 
 Import Templates "cacti_graph_template_wan1-speed.xml"
 
