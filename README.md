@@ -8,8 +8,6 @@ exec ./setup.pl
 
 ![alt tag](https://pic.pimg.tw/echochio/1481787019-2075263314_n.png)
 
-![alt tag](https://pic.pimg.tw/echochio/1481787166-3918411350_n.png)
-
 Put "speed.php & wan1-download.php" in your WAN1 web site
 
 Put "speed.php & wan1-upload.php" in your rhcloud
